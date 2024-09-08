@@ -57,7 +57,7 @@ REDDIT_USER_AGENT = 'your_user_agent_name'
 
 1. [RapidAPI](https://rapidapi.com/) saytında qeydiyyatdan keçin
 2. [Twitter API v2](https://rapidapi.com/restocked-gAGxip8a_/api/twitter-api47) üçün abunə olun
-3. API açarınızı əldə edin
+3. API açarınızı əldə edin. Pulsuz olaraq ayda 3000 sorğu etmək olur. Rəsmi API-dən də istifaəd edə bilərsiniz https://developer.x.com/en/products/x-api
 
 `config.py` faylını yeniləyin:
 ```python
