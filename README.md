@@ -2,7 +2,7 @@
 
 Bu sosial media platformalarından (Reddit və Twitter) səhmlər haqqında məlumatları toplayan, təhlil edən və ümumiləşdirən bir botdur. Bot məlumatların toplanması üçün Reddit və Twitter API-lərindən istifadə edir, onları GPT-4o ilə təhlil edir və ətraflı hesabat tərtib edir.
 
-Hesabatın nümunəsi: [stock_analysis_report.md](https://github.com/vrashad/gpt_finance_assistant/blob/main/stock_analysis_report.md)
+Hesabatın nümunəsi: [stock_analysis_report.md](https://github.com/vrashad/gpt_finance_assistant/blob/main/stock_analysis_report.md) 08.09.2024
 
 ## Xüsusiyyətləri
 
