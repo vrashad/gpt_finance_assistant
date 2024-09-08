@@ -71,7 +71,7 @@ RAPIDAPI_HOST = 'twitter-api47.p.rapidapi.com'
 `config.py` faylını yeniləyin:
 ```python
 GPT_API_KEY = 'your_openai_api_key'
-GPT_BASE_URL = '[https://api.openai.com/v1/chat/completions](https://api.openai.com/v1/chat/completions)'  # və ya başqa URL istifadə edirsinizsə
+GPT_BASE_URL = 'https://api.openai.com/v1/chat/completions'  # və ya başqa URL istifadə edirsinizsə
 GPT_MODEL = 'gpt-4o'
 ```
 
